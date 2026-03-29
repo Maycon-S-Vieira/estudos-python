@@ -10,10 +10,7 @@ Lógica de programação
 Estruturas de dados
 Automação de tarefas
 Desenvolvimento backend
-<<<<<<< HEAD
 
 # Exercicios
 
 Os exercicios contidos são a parte base para entendimento da estrututa do Python; listas, funções, operações, etc. O desafio é um mini sistema para criação de usernames e senhas provisorias para novos usuarios dado como entrada o nome completo do aluno.
-=======
->>>>>>> origin/main
